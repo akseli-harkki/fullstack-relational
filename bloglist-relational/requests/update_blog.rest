@@ -1,6 +1,0 @@
-PUT http://localhost:3001/api/blogs/6
-Content-Type: application/json
-
-{
-  "likes": 3
-}
