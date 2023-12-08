@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/users/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNwaWRlcm1hbkBob3RtYWlsLmNvbSIsImlkIjoyLCJpYXQiOjE3MDIwMzY1MTJ9.0Bo8INzlXKbBjCy0Gt4eLgeeFeH6vH-5Ty83zXlDdJw
+
+{
+  "username": "spiderman@hotmail.com"
+}
